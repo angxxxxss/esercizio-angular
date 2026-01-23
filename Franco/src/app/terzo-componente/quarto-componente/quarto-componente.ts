@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-quarto-componente',
   imports: [],
   templateUrl: './quarto-componente.html',
-  styleUrl: './quarto-componente.css',
+  styleUrls: './quarto-componente.css',
 })
 export class QuartoComponente {
   name = {

@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-secondo-componente',
   imports: [],
   templateUrl: './secondo-componente.html',
-  styleUrl: './secondo-componente.css',
+  styleUrls: './secondo-componente.css',
 })
 export class SecondoComponente {
   name = {
